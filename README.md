@@ -1,5 +1,4 @@
 # Small_Scripts
-<<<<<<< HEAD
 ## This serves as a Collection of miscellaneous scripts that I've written that might be useful to someone else.
 
 TopTweets.py was my first exploration into Twitter's API. It takes a user as input and returns the most favorited tweets they've put out. Useful because Twitter—as far as I know—doesn't let you sort tweets.
